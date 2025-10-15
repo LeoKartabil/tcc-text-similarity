@@ -1,0 +1,3 @@
+O aplicativo de controle financeiro permite registrar despesas, receitas e definir metas mensais.
+Ele oferece gráficos interativos que mostram o comportamento financeiro ao longo do tempo.
+Com o objetivo de simplificar a rotina, o sistema apresenta uma interface moderna e sincroniza os dados automaticamente com o armazenamento em nuvem, garantindo acesso a qualquer hora e lugar.

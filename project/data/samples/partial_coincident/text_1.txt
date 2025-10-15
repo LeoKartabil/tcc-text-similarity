@@ -1,0 +1,4 @@
+O aplicativo de controle financeiro ajuda o usuário a registrar despesas, receitas e metas de economia em um ambiente intuitivo e seguro.
+Ele oferece gráficos interativos que mostram o comportamento financeiro ao longo do tempo, permitindo identificar padrões de consumo e oportunidades de economia.
+O sistema também envia lembretes automáticos de contas a vencer e disponibiliza relatórios personalizados para melhor planejamento orçamentário.
+Além disso, conta com um assistente virtual que orienta o usuário com dicas sobre investimentos e gestão de dívidas.
